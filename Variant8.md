@@ -1,10 +1,10 @@
 ## Комп'ютерні системи імітаційного моделювання
-## СПм-XX-XX, **[Ваше Прізвище Ім'я По Батькові]**
+## СПм-25-2, **Мухін Єгор Ігорович**
 ### Лабораторна робота №**1**. Опис імітаційних моделей та проведення обчислювальних експериментів
 
 <br>
 
-### Варіант [Ваш варіант], модель у середовищі NetLogo:
+### Варіант 8, модель у середовищі NetLogo:
 [Segregation Simple Extension 1](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/Segregation%20Extensions/Segregation%20Simple%20Extension%201.nlogo)
 
 <br>
